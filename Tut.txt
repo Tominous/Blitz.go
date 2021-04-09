@@ -9,4 +9,4 @@ go get github.com/1william1/ecc
 go get github.com/helloyi/go-sshclient
 
 Finished!
-Usage: go run Blitz.go IP PORT TIME
+Usage: go run Blitz.go IP:PORT
